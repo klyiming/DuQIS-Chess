@@ -1,2 +1,2 @@
 # DuQIS-Chess
-e4 d4 nf6
+e4 d5 nf6
