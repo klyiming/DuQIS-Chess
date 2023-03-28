@@ -1,2 +1,18 @@
 Quantum Algorithm:
 Dmitri Shelby Anna Keith Will and everyone else
+
+FUNCTIONS NEEDED:
+
+2 qubit initializer
+
+3 qubit initializer
+
+4 qubit initializer
+
+oracle initializer
+
+Diffuser ( Kevin will deal with cus he confused abt it )
+
+Repeater
+
+Future Fun Feature (Simple not gate)

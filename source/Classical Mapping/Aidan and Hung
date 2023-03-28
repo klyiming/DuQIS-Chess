@@ -1,3 +1,13 @@
 Classical Mappings:
 Aidan and Hung
 
+Take Erics possible positions function, and try to convert to a proper form, whilst also keeping a copy of the original form (1D list)
+
+For example    ((0, 1, -1), (0)       , (0, 3)
+		(0),      , (3, -3, 1), (0)
+		(1, -1),  , (3, 0, -1), (3, 1, -1)) 
+		
+		So a 2d array, in the shape of the board, of arrays of varying length. 
+		
+END: Take the 1D list array, and filter out with final results
+
